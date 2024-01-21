@@ -1,0 +1,55 @@
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #F9EBEA; /* Light peach background */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-family: 'cursive', sans-serif;
+  color: #3498db; /* Pastel blue text color */
+}
+
+label {
+  display: block;
+  font-family: 'cursive', sans-serif;
+  margin-bottom: 5px;
+  color: #27ae60; /* Pastel green text color */
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #dbeb5d; /* Pastel orange button color */
+  color: #350340;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e0eb52; /* Darker orange on hover */
+}
+
+p {
+  font-family: 'cursive', sans-serif;
+  margin-top: 15px;
+  cursor: pointer;
+  color: #8e44ad; /* Pastel purple text color */
+}
+
+p:hover {
+  text-decoration: underline;
+}

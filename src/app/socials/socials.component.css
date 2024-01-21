@@ -1,0 +1,18 @@
+body {
+    font-family: 'cursive';
+    color: rgb(247, 247, 52);
+    background-color: rgb(189, 155, 221);
+  }
+
+  .container {
+    max-width: 800px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  .lead {
+    font-size: 1.2rem;
+    color: rgb(251, 176, 85);
+  }

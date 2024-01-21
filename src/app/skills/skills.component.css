@@ -1,0 +1,13 @@
+.skills-container {
+    font-family: 'cursive', sans-serif;
+  }
+  
+  /* Pastel color scheme */
+  .skill {
+    background-color: #f0f571; /* Light peach */
+    color: #9b66cc; /* Light blue */
+    padding: 15px; /* Increase padding for a bigger size */
+    margin: 10px;
+    border-radius: 8px; /* Increase border-radius for rounded corners */
+    font-size: 1.5rem; /* Increase font size */
+  }

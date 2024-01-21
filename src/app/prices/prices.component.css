@@ -1,0 +1,21 @@
+/* prices-table.component.css */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  th, td {
+    border: 4px solid #bbe8a2;
+    padding: 16px;
+    text-align: left;
+    color: #f7e174;
+    font-size: 40px;
+    font-family: cursive;
+  }
+  
+  th {
+    background-color: #d78ad7;
+  }
+  

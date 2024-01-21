@@ -1,0 +1,3 @@
+<div class="slideshow" [@slideAnimation]="'active'">
+    <img *ngFor="let slide of slides; let i = index" [src]="slide" [hidden]="i !== currentSlideIndex" alt="Slide">
+  </div>
